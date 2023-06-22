@@ -10,6 +10,7 @@ function App() {
         <li>ABOUT</li>
         <li>CONTACT</li>
         <li>SERVICE</li>
+        <li>FEEDBACK</li>
       </ul>
    </header>
    <section>
